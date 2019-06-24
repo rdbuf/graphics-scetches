@@ -11,3 +11,10 @@ Given a set of mouse clicks, draw a bezier curve.
 2. Allow for points drag-and-move
 
 3. Generalize to 3D
+
+## Technology
+
+```
+CUDA 6.5
+OpenGL 3.3
+```
